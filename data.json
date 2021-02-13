@@ -1,0 +1,230 @@
+ [
+        {
+            "price": 63.9,
+            "ratings": 4.8,
+            "stock": 12,
+            "numOfReviews": 3,
+            "_id": "6023ce4f3389320474306df0",
+            "name": "Tort Dakłas (szt.)",
+            "description": "Bezy z daktylami i orzechami włoskimi, przełożone musem orzechowym z serkiem mascarpone.",
+            "images": [
+                {
+                    "_id": "6023ce4f3389320474306df1",
+                    "public_id": "products/airpords_e5cqqr",
+                    "url": "https://cdn.shoplo.com/83012923/products/th2048/aaas/284-tort-daklas-2.jpg"
+                },
+                {
+                    "_id": "6023ce4f3389320474306df2",
+                    "public_id": "products/airpords_e5cqqr",
+                    "url": "https://cdn.shoplo.com/83012923/products/th2048/aaas/656-dsc-5903-daklas.JPG"
+                }
+            ],
+            "category": "Ciasta",
+            "seller": " (8 porcji - min. 700 g))",
+            "reviews": [],
+            "user": "6021454195d8e62cac0ff2dc",
+            "createdAt": "2021-02-10T12:15:11.143Z",
+            "__v": 0
+        },
+        {
+            "price": 49.9,
+            "ratings": 4.8,
+            "stock": 12,
+            "numOfReviews": 3,
+            "_id": "6023cea13389320474306df3",
+            "name": "Tort Królewski (szt.)",
+            "description": "Biszkopty o smaku czekoladowym z musem śmietanowym z białą czekoladą.",
+            "images": [
+                {
+                    "_id": "6023cea13389320474306df4",
+                    "public_id": "products/airpords_e5cqqr",
+                    "url": "https://res.cloudinary.com/mckrus/image/upload/v1612957929/302-img-0745-tort-krolewski-big_svixuo.jpg"
+                }
+            ],
+            "category": "Ciasta",
+            "seller": "(12 porcji - min. 1 kg)",
+            "reviews": [],
+            "user": "6021454195d8e62cac0ff2dc",
+            "createdAt": "2021-02-10T12:16:33.209Z",
+            "__v": 0
+        },
+        {
+            "price": 79.9,
+            "ratings": 4.8,
+            "stock": 12,
+            "numOfReviews": 3,
+            "_id": "6023cf853389320474306df5",
+            "name": "Tort Świnka (szt.)",
+            "description": "Tort w masie śmietanowej. Dostępny w wariantach 12 i 16 porcji.",
+            "images": [
+                {
+                    "_id": "6023cf853389320474306df6",
+                    "public_id": "products/airpords_e5cqqr",
+                    "url": "https://cdn.shoplo.com/83012923/products/th2048/aaao/488-swinka-6416-white.jpg"
+                }
+            ],
+            "category": "Ciasta",
+            "seller": "(12 porcji - min. 1 kg)",
+            "reviews": [],
+            "user": "6021454195d8e62cac0ff2dc",
+            "createdAt": "2021-02-10T12:20:21.984Z",
+            "__v": 0
+        },
+        {
+            "price": 33.9,
+            "ratings": 4.8,
+            "stock": 12,
+            "numOfReviews": 3,
+            "_id": "6023d0413389320474306df9",
+            "name": "Zestaw pralin w małej skrzynce.",
+            "description": "Zestaw wyselekcjonowanych pralin i trufli Cukierni Sowa w eleganckiej białej skrzynce.",
+            "images": [
+                {
+                    "_id": "6023d0413389320474306dfa",
+                    "public_id": "products/airpordsd_e5cqqr",
+                    "url": "https://res.cloudinary.com/mckrus/image/upload/v1612957636/718-praliny-w-pudelku-male-cukiernia-sowa-02_x1tifr.jpg"
+                }
+            ],
+            "category": "Ciasta",
+            "seller": "ty",
+            "reviews": [],
+            "user": "6021454195d8e62cac0ff2dc",
+            "createdAt": "2021-02-10T12:23:29.564Z",
+            "__v": 0
+        },
+        {
+            "price": 179.9,
+            "ratings": 0,
+            "stock": 12,
+            "numOfReviews": 3,
+            "_id": "6023d07e3389320474306dfb",
+            "name": "Kolekcja pralin w dużej skrzynce",
+            "description": "Zestaw wyselekcjonowanych pralin i trufli Cukierni Sowa w eleganckiej białej skrzynce.  Produkt zapakowany jest w torbę prezentową sygnowaną naszym logiem.",
+            "images": [
+                {
+                    "_id": "6023d07e3389320474306dfc",
+                    "public_id": "products/airpfggordsd_e5cqqr",
+                    "url": "https://res.cloudinary.com/mckrus/image/upload/v1612957769/726-skrzynia-duza-praliny-cukiernia-sowa-02_vf44yh.jpg"
+                }
+            ],
+            "category": "Ciasta",
+            "seller": "ty",
+            "reviews": [],
+            "user": "6021454195d8e62cac0ff2dc",
+            "createdAt": "2021-02-10T12:24:30.166Z",
+            "__v": 0
+        },
+        {
+            "price": 45.9,
+            "ratings": 0,
+            "stock": 12,
+            "numOfReviews": 3,
+            "_id": "6023d13a3389320474306dfd",
+            "name": "Torcik pakowany (szt.)",
+            "description": "Torcik pakowany jest mniejszą (6 porcji), idealną na prezent wersją naszych trzech tortów standardowych: tortu truflowego, pralinowego i Chrupiącej Maliny.",
+            "images": [
+                {
+                    "_id": "6023d13a3389320474306dfe",
+                    "public_id": "products/airpfggordsd_e5cqqr",
+                    "url": "https://cdn.shoplo.com/83012923/products/th2048/aaae/690-img-3491w-1.jpg"
+                },
+                {
+                    "_id": "6023d13a3389320474306dff",
+                    "public_id": "products/airpfggorfhdsd_e5cqqr",
+                    "url": "https://cdn.shoplo.com/83012923/products/th2048/aaae/688-img-3508w-1.jpg"
+                },
+                {
+                    "_id": "6023d13a3389320474306e00",
+                    "public_id": "products/airpfggorfh63dsd_e5cqqr",
+                    "url": "https://cdn.shoplo.com/83012923/products/th2048/aaae/694-img-3544-enhanced-edit.jpg"
+                }
+            ],
+            "category": "Ciasta",
+            "seller": "ty",
+            "reviews": [],
+            "user": "6021454195d8e62cac0ff2dc",
+            "createdAt": "2021-02-10T12:27:38.466Z",
+            "__v": 0
+        },
+        {
+            "price": 25.9,
+            "ratings": 5,
+            "stock": 12,
+            "numOfReviews": 3,
+            "_id": "6023d4c34cc3343e741189bd",
+            "name": "Ciastka Sówki w drewnianym opakowaniu",
+            "description": "Mieszanka ciastek owsianych, czekoladowych, maślanych i orzechowych (400 g)",
+            "images": [
+                {
+                    "_id": "6023ce4f3389320474306df1",
+                    "public_id": "products/adirpords_e5cqqr",
+                    "url": "https://cdn.shoplo.com/83012923/products/th2048/aaaa/352-314-ciastka-pudelko-edit.jpg"
+                },
+                {
+                    "_id": "6023ce4f3389320474306df2",
+                    "public_id": "products/airfgpords_e5cqqr",
+                    "url": "https://cdn.shoplo.com/83012923/products/th640/aaaa/66-ciastka-czekoladowe-cukiernia-sowa.jpg"
+                }
+            ],
+            "category": "Ciasta",
+            "seller": "-",
+            "reviews": [],
+            "user": "6021454195d8e62cac0ff2dc",
+            "createdAt": "2021-02-10T12:15:11.143Z",
+            "__v": 0
+        },
+        {
+            "price": 63.9,
+            "ratings": 4.8,
+            "stock": 12,
+            "numOfReviews": 3,
+            "_id": "6023d4fa4cc3343e741189be",
+            "name": "Konfitura truskawkowa",
+            "description": "Wyśmienita konfitura",
+            "images": [
+                {
+                    "_id": "6023ce4f3389320474306df1",
+                    "public_id": "products/airporfgdfgds_e5cqqr",
+                    "url": "https://cdn.shoplo.com/83012923/products/th2048/aaau/200-konfitura-truskawkowa-img-8878.jpg"
+                },
+                {
+                    "_id": "6023ce4f3389320474306df2",
+                    "public_id": "products/airpordsds_e5cqqr",
+                    "url": "https://cdn.shoplo.com/83012923/products/th2048/aaau/676-dsc-3773-konfitura.jpg"
+                }
+            ],
+            "category": "Ciasta",
+            "seller": "pojemność: 200 g",
+            "reviews": [],
+            "user": "6021454195d8e62cac0ff2dc",
+            "createdAt": "2021-02-10T12:15:11.143Z",
+            "__v": 0
+        },
+        {
+            "price": 33.9,
+            "ratings": 4.8,
+            "stock": 12,
+            "numOfReviews": 3,
+            "_id": "6023d4fc4cc3343e741189bf",
+            "name": "Kawa Sowa Caffè (250 g)",
+            "description": "Starannie dobrana mieszanka 100% najszlachetniejszych Arabik pochodzących z Ameryki południowej i centralnej. W ofercie dostępna mielona i ziarnista.",
+            "images": [
+                {
+                    "_id": "6023ce4f3389320474306df1",
+                    "public_id": "products/airpords_e5cqqr",
+                    "url": "https://cdn.shoplo.com/83012923/products/th2048/aaag/184-sowa-caffe-250-g-720x480.png"
+                },
+                {
+                    "_id": "6023ce4f3389320474306df2",
+                    "public_id": "products/airpords_e5cqqr",
+                    "url": "https://cdn.shoplo.com/83012923/products/th2048/aaag/682-dsc-5984-kawa-1.JPG"
+                }
+            ],
+            "category": "Ciasta",
+            "seller": "-",
+            "reviews": [],
+            "user": "6021454195d8e62cac0ff2dc",
+            "createdAt": "2021-02-10T12:15:11.143Z",
+            "__v": 0
+        }
+    ]

@@ -7,7 +7,7 @@ const dotenv = require('dotenv')
 const colors = require("colors")
 
 
-dotenv.config({ path: 'backend/config/config.env' })
+// dotenv.config({ path: 'backend/config/config.env' })
 
 
 // Handle Uncaught exceptions
@@ -18,7 +18,8 @@ process.on('uncaughtException', err => {
 })
 
 
-
+// Setting up config file
+if (process.env.NODE_ENV !== 'PRODUCTION') require('dotenv').config({ path: 'backend/config/config.env' })
 
 connectDatabase()
 

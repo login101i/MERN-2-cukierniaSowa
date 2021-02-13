@@ -1,7 +1,7 @@
 const express = require("express")
 
 const app = express()
-const errrorMiddleware = require('./middlewares/errors').default
+const errrorMiddleware = require('./middlewares/errors')
 const bodyParser = require('body-parser')
 
 const cookieParser = require('cookie-parser')

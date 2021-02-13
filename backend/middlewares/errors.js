@@ -1,7 +1,7 @@
-import ErrorHandler from '../utils/ErrorHandler';
+const ErrorHandler = require('../utils/ErrorHandler');
 
 
-export default (err, req, res, next) => {
+module.exports = (err, req, res, next) => {
     err.statusCode = err.statusCode || 500;
 
     if (process.env.NODE_ENV === 'DEVELOPMENT') {
